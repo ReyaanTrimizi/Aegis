@@ -2,9 +2,13 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-shinyapps.io-blue)](https://reyaan.shinyapps.io/aegis_portfolio_analyzer/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Demo-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A professional web application for analyzing defense equipment upgrade portfolios with budget optimization and value assessment capabilities.
+
+🔗 **[View Live Application](https://reyaan.shinyapps.io/aegis_portfolio_analyzer/)**
+
+> **Note:** This is a learning and demonstration project. The data is simulated and does not represent actual defense equipment or portfolios.
 
 ## Features
 
