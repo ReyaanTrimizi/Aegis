@@ -6,9 +6,11 @@
 
 A professional web application for analyzing defense equipment upgrade portfolios with budget optimization and value assessment capabilities.
 
-🔗 **[View Live Application](https://reyaan.shinyapps.io/aegis_portfolio_analyzer/)**
+## 🚀 Live Demo
 
-> **Note:** This is a learning and demonstration project. The data is simulated and does not represent actual defense equipment or portfolios.
+**[View Live Application →](https://reyaan.shinyapps.io/aegis_portfolio_analyzer/)**
+
+> **Note:** This is a **learning and demonstration project**. All data is simulated and does not represent actual defense equipment or portfolios. Built to demonstrate data visualization, interactive dashboards, and full-stack Python development skills.
 
 ## Features
 

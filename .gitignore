@@ -57,3 +57,7 @@ rsconnect-python/
 .Rproj.user
 *.Rproj
 
+# Local guide files (for personal use)
+*_GUIDE.md
+GITHUB_ISSUES_GUIDE.md
+ISSUE_CREATION_GUIDE.md
